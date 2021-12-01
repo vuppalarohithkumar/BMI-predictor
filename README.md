@@ -18,8 +18,9 @@ BMI(Body Mass Index) predictor is a web application is a measure of body fat bas
 - HTML
 - CSS
 ## To install flask
+```
 pip install flask
- 
+```
 
 
  
