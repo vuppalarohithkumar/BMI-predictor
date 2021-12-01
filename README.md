@@ -24,5 +24,6 @@ pip install flask
 ### after successfully installing flask run command
 ```
 python app.py runserver
+```
 
  
